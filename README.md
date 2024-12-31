@@ -80,6 +80,12 @@ This real-time chat application demonstrates how modern technologies work in har
 
 **OUTPUT** :
 
+![cchat1](https://github.com/user-attachments/assets/ea4cd3ff-a0f4-4df9-8b9e-4fbfb01cb7a1)
+![cchat2](https://github.com/user-attachments/assets/18b922cc-fbdd-4e6d-8744-54b34a137600)
+![cchat3](https://github.com/user-attachments/assets/3008fcf1-df1e-463d-92cc-3ef2c8ed8861)
+![cchat4](https://github.com/user-attachments/assets/d1fcd6c8-a239-4690-a37e-8f796689e2af)
+![chat5](https://github.com/user-attachments/assets/603a2385-7a26-48fa-b9d5-a63be3bec4ef)
+
 
 
 
